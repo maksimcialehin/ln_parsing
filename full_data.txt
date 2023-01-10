@@ -1,0 +1,200 @@
+0;Intel® Graphics Command Center;INTEL CORP;2018;No email
+1;PDF X: PDF Editor & PDF Reader;NG PDF Lab;2019;No email
+2;Power BI Desktop;Microsoft Corporation;2017;No email
+3;Slack;Slack Technologies Inc.;2014;No email
+4;Citrix Workspace;Citrix;2012;No email
+5;Company Portal;Microsoft Corporation;2012;No email
+6;Neat Office - Docs & PDF App;Any DVD & Office App;2019;No email
+7;PDF Reader Elf: PDF Editor;PDF reader apps;2021;No email
+8;Zoom Rooms;Zoom Video Communications, Inc.;2017;No email
+9;PDF Merger & Splitter;AnywaySoft, Inc.;2019;support@anywaysoft.com
+10;Xodo - PDF Reader & Editor;Xodo Technologies Inc.;2014;No email
+11;Power BI;Microsoft Corporation;2015;No email
+12;Trello;Trello, Inc.;2016;No email
+13;Free Invoice Generator;Zoho Corp;2016;support+invgenerator@zohoinvoice.com
+14;Diligent Boards;Diligent Corporation;2014;No email
+15;Dropshipping with Shopify Full Course;Hub Academy;2019;hacademe@gmail.com
+16;Doc Opener For Sell;MicroWater;2017;No email
+17;Any Doc to Pdf;AnywaySoft, Inc.;2019;support@anywaysoft.com
+18;HP Enhanced Lighting;HP Inc.;2020;No email
+19;Pdf Suiter -Open Find Print pdf;OfficeHelp;2017;No email
+20;Penny Stocks - Stock Market Full Investing Course;Hub Academy;2018;No email
+21;TGJU;MAH Studio;2018;mohsens22@outlook.com
+22;iFax: Send & Receive Fax App;Crowded Road;2017;support@ifaxapp.com
+23;WebMoney Keeper [UWP];CJSC Computing Forces;2018;No email
+24;Guide: Resume Building, CV and Cover letter;Hub Academy;2019;admin@academehub.com
+25;SBX Invoice;SBX Studio;2018;support@sbxinvoice.com
+26;Write a Business Plan - Full Course;Better courses;2019;yoannaaps@yahoo.com
+27;Oberlo Guide for Shopify Dropshipers;Better courses;2020;No email
+28;بانکدون;Saber Marandi;2015;marandisaber.dev@gmail.com
+29;Forex Investment Course;Yoav Fael - YOANNA;2014;yoavfaeland@gmail.com
+30;Invoice – BizXpert;Key-Soft Plc;2017;info@bizxpert.com
+31;AvePoint Timeline for Microsoft® Dynamics CRM;AvePoint Inc.;2013;No email
+32;Quicksale Free;LAT;2015;latvtd@yahoo.com.vn
+33;Task Manager Free;Delaire Damien;2013;No email
+34;getHired;AppSplice;2012;giri@appsplice.com
+35;Doc Write;WHNC;2017;No email
+36;Salesforce Chatter;salesforce.com;2017;sf.chatter.feedback@salesforce.com
+37;Ally Mobile;Ally Financial Inc.;2014;No email
+38;Splashtop Personal - Remote Desktop;Splashtop Inc.;2013;No email
+39;Moon Invoice - Free Invoicing & Estimate Maker;Moon Technolabs Pvt. Ltd.;2014;support@mooninvoice.com
+40;Project Plan 365;HOUSATONIC SOFTWARE INC.;2014;contact@housatonic.com
+41;Accounting Dictionary Pro;IM7;2018;freeapps0007@gmail.com
+42;Stimulsoft Designer;Stimulsoft Ltd;2013;support@stimulsoft.com
+43;Zoho Invoice - Free Invoicing for Businesses;Zoho Corp;2014;support+mobile@zohoinvoice.com
+44;Sabor POS;Novaux Inc;2015;javier@saborpos.com
+45;Forbes Media;Forbes Media LLC;2014;No email
+46;IPT Point Of Sale;IPT INTERNATIONAL TECHNOLOGIES CORPORATION;2017;No email
+47;All My Invoices - Invoice Maker;Aidaluu Inc.;2020;No email
+48;Softros LAN Messenger;Softros Systems;0;No email
+49;Eclipse Manager;Ounce Digital;2014;info@eclipsemanager.com
+50;Power Apps;Microsoft Corporation;2021;No email
+51;BoardPad;ICSA Boardroom Apps Limited;2013;support@boardpad.com
+52;PDF Reader Pro - PDF Editor & PDF Converter;PDF Technologies, Inc.;2019;support@pdfreaderpro.com
+53;Fax App - Send Fax & Receive Faxes;Amplify Ventures;2020;support@ifaxapp.com
+54;KanTime ICE;KANRAD TECHNOLOGIES INC.;2015;No email
+55;Mediabyte Whiteboard;Mediabyte Software;2017;No email
+56;Nextpad : Notepad and Markdown Editor;Define Studio;2016;definestudio@outlook.com
+57;Grapholite Diagram;Aphalina;2013;No email
+58;HP Anywhere;HP Inc.;2014;No email
+59;PDF Reader Pro - Edit & Convert;PDF Technologies, Inc.;2019;support@pdfreaderpro.com
+60;Universal Email App - Mail for All Mailbox;Security Internet Develop;2019;jingzhounewcom412@hotmail.com
+61;Resco Mobile CRM;Resco;2012;mobilecrm@resco.net
+62;AnyConnect;Cisco Systems;2014;ac-mobile-feedback@cisco.com
+63;Zoho Books - Accounting Software for Businesses;Zoho Corp;2014;support+mobile@zohobooks.com
+64;HeadHunter;HeadHunter;2012;wp.support@hh.ru
+65;Microsoft Dynamics Time Management;Microsoft Corporation;2015;No email
+66;S3 POS;Simple SolutionS JSC;2013;No email
+67;Microsoft Dynamics Business Analyzer;Microsoft Corporation;2013;No email
+68;HD Video Downloader For Internet;Security Internet Develop;2019;jingzhounewcom412@hotmail.com
+69;CCC ONE Touch;CCC Intelligent Solutions Inc;2017;No email
+70;call.center;DIDWW;2017;feedback@call.center
+71;Invoice 360;ConnectCode;2012;support@invoicesoftware360.com
+72;Invoice Master;Vinod Seta;2016;mastertechnolabs@gmail.com
+73;ShareFile;Citrix;2012;No email
+74;Twin Cities Chess Club;CompaNova LLC;2015;tccc@companova.com
+75;Track My Mileage;APG Solutions LLC;2013;No email
+76;Unlimited Proxy for PC;InternetOfThingsDev;2018;xiaoyuhuadev@hotmail.com
+77;Microsoft Dynamics 365;Microsoft Corporation;2016;No email
+78;Credit Card Terminal;Inner Fence;2010;support@innerfence.com
+79;Invoicing, Billing + Time Tracking;ModernApp Technologies;2012;modernapp-invoicing@hotmail.com
+80;VMware AirWatch® Agent™;VMware;2015;No email
+81;SonicWALL Mobile Connect;SonicWall Inc.;2014;No email
+82;Hotspot VPN - Best Free VPN & Unlimited Wifi Proxy;IFreeNet Inc;2018;freenettech@hotmail.com
+83;ConnectWise Control;ConnectWise;2015;No email
+84;Digital Business Cards;Future Warp;2014;Support@FutureWarp.com
+85;Any3 FileSharing;JMA SYSTEMS CORPORATION;2012;Any3-Support@jmas.co.jp
+86;Harvest Time Tracker;Iridesco, LLC;2017;No email
+87;Good For Enterprise;Good Technology Corporation;2014;No email
+88;Dynamics AX 2012 Expenses;Microsoft Corporation;2017;No email
+89;Microsoft Ignite;Eventbase Technology Inc.;2015;support@eventbase.com
+90;GlobalProtect;Palo Alto Networks;2016;No email
+91;ThinLinc Client;Cendio;0;No email
+92;CNBC;NBCUniversal Media LLC;2014;customercare@support.cnbc.com
+93;Meeting Owl;Owl Labs;2021;support@owllabs.com
+94;MyCase Desktop;MyCase Inc;2020;No email
+95;Miro: online collaborative whiteboard platform;Realtimeboard Inc.;2017;No email
+96;Splashtop Business – Secure Remote Access and Support;Splashtop Inc.;2019;No email
+97;Challenger-HelloWorld;Challenger-Trevor;2018;No email
+98;Power BI Report Builder;Microsoft Corporation;2021;No email
+99;Warehouse Management;Microsoft Corporation;2021;No email
+100;Intel® Graphics Command Center (Beta);INTEL CORP;2019;No email
+101;GoldKeyVault;GoldKey Corporation;2018;No email
+102;eLation Reach;Innovative Systems LLC;2017;No email
+103;CudaLaunch;Barracuda Networks Inc.;2016;support@barracuda.com
+104;Zenput;Zenput;2017;support@zenput.com
+105;Phone.com;Phone.com;2018;No email
+106;Virtual teleprompter Free;VTP Apps;2021;virtualteleprompter@gmail.com
+107;AI Translate - Free Tool For Windows;InternetOfThingsDev;2022;No email
+108;Aircall - VoIP Business Phone;Aircall.io, Inc;2020;No email
+109;ProntoForms - Mobile Forms;ProntoForms;2016;support@prontoforms.com
+110;SafeNet MobilePASS;SafeNet Inc.;2014;support@safenet-inc.com
+111;ALLDATA;ALLDATA LLC;2017;admobile@alldata.com
+112;BitPay for Windows;BitPay Inc.;2018;support@bitpay.com
+113;Cliq;Zoho Corp;2018;support@zohochat.com
+114;Cloud Security Camera Viewer;Drive Headquarters Inc;2014;No email
+115;Dell Remote Assist;ScreenMeet;2019;No email
+116;Estimates & Invoice Maker;IW Technologies LLC;2017;No email
+117;Field Service (Dynamics 365);Microsoft Corporation;2021;No email
+118;Field Service Mobile;Microsoft Corporation;2018;No email
+119;Fieldwire;Fieldwire;2016;support@fieldwire.com
+120;Measure Mobile;Resource and Financial Management Systems Inc;2015;help@rfms.com
+121;Mersive Solstice;Mersive Technologies, Inc;2021;support@mersive.com
+122;Online Support(S Service);Samsung Electronics Co. Ltd.;2017;No email
+123;Presentation pptx free;Christian Regli;2019;No email
+124;Ready For Assistant;LENOVO INC.;0;No email
+125;Virtual teleprompter PRO;VTP Apps;2021;virtualteleprompter@gmail.com
+126;WebExHelper;EnghLabs LLC;2017;support@enghlabs.com
+127;Adobe Experience Manager Forms;Adobe Inc.;2017;No email
+128;BA-Sentralen Sjekklistedesigner;BA-Sentralen AS;2022;support@ba-sentralen.no
+129;Bing Webmaster Tools;Microsoft Corporation;2021;No email
+130;Business Central (on-premises);Microsoft Corporation;2016;pmwappfeed@microsoft.com
+131;CRM For Outlook - SalesOutlook;Salesoutlook.com Inc.;0;No email
+132;Controller Driver;AC Software;2022;No email
+133;Dynamics 365 Business Central (online);Microsoft Corporation;2021;pmwappfeed@microsoft.com
+134;Egnyte;Egnyte;2012;support@egnyte.com
+135;Fill PDF editor, digital signature app;Amplify Ventures;2020;support@amplify.xyz
+136;GoFormz Mobile Forms;GoFormz;2017;No email
+137;HID Approve;HID Global;2018;cwattles@hidglobal.com
+138;Intel® Retail Experience Tool;INTEL CORP;2019;No email
+139;Invoice Ninja;Invoice Ninja;2021;contact@invoiceninja.com
+140;LinenMaster Office Manager;LinenMaster LLC;2021;No email
+141;MediBang Paint;MediBang Inc.;0;No email
+142;OfficeChat Messenger;MangoApps Inc;2020;support@mangoapps.com
+143;PDF convert Doc - PDF to doc or text;CardDevelop;2021;No email
+144;Print Checks Pro;Print Checks Inc;2019;support@printcheckspro.com
+145;RFMS Mobile;Resource and Financial Management Systems Inc;2017;help@rfms.com
+146;Reader for kindles books Windows;EReader11;2022;No email
+147;RentHQ;First Byte Solutions Ltd;2016;Support@renthq.net
+148;SP* (Supplier Portal Allowing Retail Coverage);Rockfish Interactive LLC;2014;No email
+149;SafetyChain;SafetyChain Software, Inc.;2020;support@safetychain.com
+150;Showpad Desktop;Showpad NV;2019;No email
+151;Taskade;Taskcade Inc.;2020;support@taskade.com
+152;TouchMD Consult;TouchMD;2015;support@touchmd.com
+153;Vidyard Desktop App;Vidyard.;2021;No email
+154;eSign Pro;IW Technologies LLC;2019;No email
+155;10bii Financial Calculator;In A Day Development;2016;theteam@inadaydevelopment.com
+156;APK Viewer;Arcadia Apps;2020;No email
+157;Audio Manager for Sonos;Audio Solutions;2022;No email
+158;Bigtincan Hub;bigtincan mobile;2014;support@bigtincan.com
+159;Blink Mobile;BLINK SYSTEMS ASSESSORIA E INFORMATICA LTDA;2014;No email
+160;Building Commission;Schneider Electric Buildings LLC;2018;No email
+161;Business Documents & Reports;Bitsmithy;2017;No email
+162;Business Finance Planner;SchnackerSoftwareSolutions, LLC;2022;schnackerSWS@gmail.com
+163;CDK Lane;CDK Global LLC;2017;No email
+164;COM-DOC;COM-ADD;2018;contact@com-add.com
+165;Cable TV.;Top Software;2021;No email
+166;Cam Viewer (Blink Cam Compatible);ABN Software;2022;No email
+167;Cash register for point of sale;Net-assembly;2017;No email
+168;Chanty;Chanty, Inc.;2020;No email
+169;Charts 3D, a Microsoft Garage Project;Microsoft Corporation;2018;No email
+170;Checkin Zone Client;Checkin Zone;2014;support@checkinzone.org
+171;Client Center for Configuration Manager;Roger Zander;2016;No email
+172;CollaBoard;IBV Informatik Beratungs und Vertriebs AG;2016;collaboard@ibv.ch
+173;Compositeur Digital UX;excense;2017;contact@excense.fr
+174;DLNA Tools - Watch TV;CardDevelop;2021;No email
+175;DSNWinbeam;DSNWinbeam;2018;DsnWinbeam@gmail.com
+176;DX1 Accounting App;Dominion DX1;2017;No email
+177;Dashboard Rotator;MobileDemand;2016;No email
+178;Document Scanner v2;Upgraded Software;2022;No email
+179;Documents Scanner;Global Digital;2022;No email
+180;Documents, Spreadsheets and Presentation Templates;Integrated Web Solutions;2022;No email
+181;Dynamics NAV;Microsoft Corporation;2014;navwappfeed@microsoft.com
+182;Constructions;FRITZ EGGER GmbH and Co. OG;2016;No email
+183;Exmark Service;EXMARK MANUFACTURING CO. INC.;2020;service@exmark.com
+184;Fast Weigh Ticketing;TAC Insight LLC;2017;support@tacinsight.com
+185;Forms-2-Go;MaximumSoft Corp.;2016;No email
+186;Free Billing & Accounting Software - Moon Books;Moon Technolabs Pvt. Ltd.;2020;support@mooninvoice.com
+187;Freelancer Jobs - for Upwork;El C@pitan;2018;presswbteam@gmail.com
+188;GTL E-App;Guarantee Trust Life;2018;No email
+189;HDMI Video Capture;MA Technology Ltd;2022;No email
+190;Hazel Paper Forms - PDF Form Maker;Aidaluu Inc.;2020;No email
+191;High Definition Audio.;Global Software Co;2022;No email
+192;Hub for SharePoint;Bitshifter GmbH;2016;No email
+193;HungerRush POS;HungerRush, LLC;2020;No email
+194;InformaCast;Singlewire Software;2021;No email
+195;Inventory sales and invoices;Ian Burkinshaw;2016;info@4epos.com
+196;InventoryOnCloud : Inventory Manager for Retailer;Index Global Solutions;2017;contact@inventoryoncloud.com
+197;Itron Mobile 3.3 for FCS;Itron, Inc.;2022;support@itron.com
+198;JT2Go;Siemens Product Lifecycle Management Software;2013;No email
+199;Label;Bitsmithy;2019;No email
